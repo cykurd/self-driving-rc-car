@@ -36,3 +36,6 @@ Full dataset not included. To retrain:
 - Point `yolo_distillation.py` at your data directories
 - Run with your preferred settings
 
+### Car & outcome
+I got this car: https://www.digikey.com/en/products/detail/sunfounder/CN0351D/16612467?gclsrc=aw.ds&gad_source=1&gad_campaignid=20837516636&gbraid=0AAAAADrbLlg0RH3SusqKgtxdiH-j5BoEm
+Here is the final video of my build and results: https://drive.google.com/file/d/1oVAqmW7OkOZMxO86Y-QGLEQdU6DEHm48/view?usp=sharing
