@@ -441,7 +441,6 @@ if __name__ == '__main__':
     # check if the pi ip address is provided (should always be the same for my use case)
     if len(sys.argv) < 2:
         print('usage: python3 picar_client_yolo.py <pi_ip_address>')
-        print('example: python3 picar_client_yolo.py 192.168.1.155')
         sys.exit(1)
 
     # create the client object and start the client
